@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "iSEE"]
-	path = iSEE
-	url = https://github.com/isee/isee
-	shallow = true
-	registered = true
