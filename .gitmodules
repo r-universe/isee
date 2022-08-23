@@ -8,3 +8,8 @@
 	url = https://github.com/isee/isee
 	shallow = true
 	registered = true
+[submodule "iSEEu"]
+	path = iSEEu
+	url = https://github.com/isee/iseeu
+	shallow = true
+	registered = true
