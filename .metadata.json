@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "package": "iSEE"
+  },
+  {
+    "package": "iSEEhex"
+  },
+  {
+    "package": "iSEEu"
+  }
+]
