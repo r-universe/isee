@@ -13,13 +13,13 @@
 	url = https://github.com/isee/iseehex
 	shallow = true
 	registered = true
-[submodule "iSEEhub"]
-	path = iSEEhub
-	url = https://github.com/isee/iseehub
-	shallow = true
-	registered = true
 [submodule "iSEEu"]
 	path = iSEEu
 	url = https://github.com/isee/iseeu
+	shallow = true
+	registered = true
+[submodule "iSEEhub"]
+	path = iSEEhub
+	url = https://github.com/isee/iseehub
 	shallow = true
 	registered = true
