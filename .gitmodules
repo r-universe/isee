@@ -5,6 +5,9 @@
 [submodule "iSEE"]
 	path = iSEE
 	url = https://github.com/isee/isee
+[submodule "iSEEde"]
+	path = iSEEde
+	url = https://github.com/isee/iseede
 [submodule "iSEEhex"]
 	path = iSEEhex
 	url = https://github.com/isee/iseehex
