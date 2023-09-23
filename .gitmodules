@@ -17,6 +17,9 @@
 [submodule "iSEEindex"]
 	path = iSEEindex
 	url = https://github.com/isee/iseeindex
+[submodule "iSEEpathways"]
+	path = iSEEpathways
+	url = https://github.com/isee/iseepathways
 [submodule "iSEEu"]
 	path = iSEEu
 	url = https://github.com/isee/iseeu
